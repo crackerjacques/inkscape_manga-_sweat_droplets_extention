@@ -16,8 +16,8 @@ Many Linux
 ```
 # copy directory to your inkscape extensions path.
 
-cp -r /inkscape_manga-_sweat_droplets_extention/sweat_drop ~/.config/inkscape/extensions
-cp -r /inkscape_manga-_sweat_droplets_extention/sweatdrop_teardrop ~/.config/inkscape/extensions
+cp -r /inkscape_manga-style_sweat_droplets_extention/sweat_drop ~/.config/inkscape/extensions
+cp -r /inkscape_manga-style_sweat_droplets_extention/sweatdrop_teardrop ~/.config/inkscape/extensions
 
 # DONE!!
 
@@ -29,8 +29,8 @@ MacOS
 # On Terminal
 mkdir -p ~/.config/inkscape/extensions
 
-cp -r /inkscape_manga-_sweat_droplets_extention/sweat_drop ~/.config/inkscape/extensions
-cp -r /inkscape_manga-_sweat_droplets_extention/sweatdrop_teardrop ~/.config/inkscape/extensions
+cp -r /inkscape_manga-style_sweat_droplets_extention/sweat_drop ~/.config/inkscape/extensions
+cp -r /inkscape_manga-style_sweat_droplets_extention/sweatdrop_teardrop ~/.config/inkscape/extensions
 
 ```
 
