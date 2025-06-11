@@ -36,8 +36,14 @@ cp -r /inkscape_manga-style_sweat_droplets_extention/sweatdrop_teardrop ~/.confi
 
 Windows
 ```
-# Copy to
+# Copy those folder
+sweat_drop
+sweatdrop_teardrop
+# to
 C:\Users\[Yourname]\AppData\Roaming\inkscape\extensions
+
+#I am not familiar with the Windows command line. Sorry.
+
 
 ```
 Then launch Inkscape, You can see new entry in Extensions -> Rendering
