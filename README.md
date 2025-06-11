@@ -46,5 +46,5 @@ C:\Users\[Yourname]\AppData\Roaming\inkscape\extensions
 
 
 ```
-Then launch Inkscape, You can see new entry in Extensions -> Rendering
-
+Then launch Inkscape, You can see new entry in Extensions -> Rendering  
+Once place droplets, you may tweak mixing mode and opacity to make good looks.
