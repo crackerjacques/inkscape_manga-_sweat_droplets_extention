@@ -8,7 +8,7 @@ this.
 
 # Prepare
 
-Install Python >3.9 and Inkscape 1.4.2
+Install Python >3.9 and Inkscape >1.4
 
 # Install
 
@@ -38,7 +38,6 @@ Windows
 ```
 # Copy to
 C:\Users\[Yourname]\AppData\Roaming\inkscape\extensions
-#Same as Linux but forlder often not exist.
 
 ```
 Then launch Inkscape, You can see new entry in Extensions -> Rendering
