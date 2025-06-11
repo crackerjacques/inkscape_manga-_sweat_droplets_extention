@@ -1,4 +1,4 @@
-# inkscape_manga-_sweat_droplets_extention
+# inkscape_manga-style_sweat_droplets_extention
 draw liquid droplets like Manga Style.
 
 ![g9212](https://github.com/user-attachments/assets/0141d915-a87e-4181-889d-073cdaedee9b)
